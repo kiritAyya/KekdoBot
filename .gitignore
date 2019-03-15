@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+
+# Secrets file for Bot API key
+secrets.py
